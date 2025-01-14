@@ -1,7 +1,7 @@
 {
 "participant_id": {
         "Description": "Participant identifier"
-    }
+    },
     
 "Group": {
         "Description": "INC = incision injury as model for post-surgical pain, SHAM = sham procedure, experimental control",
