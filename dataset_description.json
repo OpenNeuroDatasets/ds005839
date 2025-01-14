@@ -1,0 +1,15 @@
+{
+    "Name": "GABA Pain fMRI",
+    "BIDSVersion": "1.0.0",
+    "Authors": [
+    "Bruno Pradier",
+    "Daniel Segelcke",
+    "Nathalie Just",
+    "Mirjam Augustin",
+    "Nina Nagelmann",
+    "Cornelius Faber",
+    "Esther Pogatzki-Zahn"
+    ],
+    "DatasetDOI": "tba",
+    "License": "CC0"
+}

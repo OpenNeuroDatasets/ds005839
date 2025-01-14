@@ -1,0 +1,17 @@
+{
+    "Group": {
+        "Description": "INC = incision injury as model for post-surgical pain, SHAM = sham procedure, experimental control",
+        "Levels": {
+            "INC": "...",
+            "SHAM": "..."
+        }
+    },
+    "Treatment": {
+        "Description": "Pharmacological i.t. treatment with SAL = saline, MUSC = muscimol, BIC = bicuculline",
+        "Levels": {
+            "SAL": "...",
+            "MUSC": "...",
+	    "BIC": "..."	
+        }
+    }
+}
