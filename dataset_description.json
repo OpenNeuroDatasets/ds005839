@@ -2,13 +2,12 @@
     "Name": "GABA Pain fMRI",
     "BIDSVersion": "1.0.0",
     "Authors": [
-        "Bruno Pradier",
-        "Daniel Segelcke",
-        "Nathalie Just",
-        "Cornelius Faber",
-        "Esther Pogatzki-Zahn"
+    "Bruno Pradier",
+    "Daniel Segelcke",
+    "Nathalie Just",
+    "Cornelius Faber",
+    "Esther Pogatzki-Zahn"
     ],
     "DatasetDOI": "tba",
-    "License": "CC0",
-    "HowToAcknowledge": "Bruno Pradier (2025). GABA Pain fMRI. OpenNeuro Dataset ds005839 / doi: "
+    "License": "CC0"
 }
